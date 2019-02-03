@@ -1,4 +1,4 @@
-# Windows AutoTimestamp 
+# Powershell AutoTimestamp 
 
 I ceate a lot of files for classes, video projects, and personal ventures. I always date documents and project files in their name such as "2018.09.03 MyNotes" (year.month.day filename). 
 
